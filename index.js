@@ -12,6 +12,6 @@ const name = "A-level";
 alert(admin);
 
 // Вебсторінка з запитом імені та оголошення змінної для виводу інформаціі в консоль
-let nameUser = prompt("Ваше ім’я");
+const nameUser = prompt("Ваше ім’я");
 
 console.log(nameUser)
